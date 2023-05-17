@@ -1,0 +1,8 @@
+{
+    "file_name" : "script",
+    "node": "1",
+    "ppn" : "16",
+    "username": "username",
+    "conda_env": "base",
+    "command" : "echo hello"
+}
