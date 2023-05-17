@@ -1,4 +1,5 @@
 {
+    "dir_name": "output",
     "file_name" : "script",
     "node": "1",
     "ppn" : "16",
